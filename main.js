@@ -1,4 +1,4 @@
-let pais = prompt ("ingrese moneda de origen (pais) ");
+let pais = prompt ("ingrese moneda de origen (paises disponibles: argentina, brasil, chile, bolivia y paraguay) ");
 '${pais}';
 let moneda = prompt ("ingrese moneda de cambio (dolar/euro)");
 '${moneda}';
